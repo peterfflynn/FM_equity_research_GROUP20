@@ -1,0 +1,1 @@
+# Financial ratios for our ASX200 Ticker
